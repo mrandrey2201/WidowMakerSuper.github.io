@@ -1,0 +1,53 @@
+body{background-image:URL(../img/searb.png);}
+.white{
+color:white;
+}
+a { 
+text-decoration: none;
+}
+.big  {
+font-size : 80PX;
+color:white;
+}
+ul{
+font-size:40px;
+color:white;
+}
+.biga  {
+font-size : 80PX;
+color:white;
+font-family:Trattatello, fantasy;
+}
+.click{
+font-size:50px;
+position:absolute;
+left:1450px;
+top:200px;
+}
+.welcome{
+font-size:50px;
+position:absolute;
+left:700px;
+top:500px;
+}
+.whiteG{
+color:white;
+font-size:40px;
+}
+.whitet{
+color:white;
+font-size:40px;
+}
+.bbig{
+color:white;
+font-size:50px;
+}
+.right{
+list-style-image:url();
+}
+.no{
+list-style-image:url();
+}
+.tabl{
+vertical-align:top;
+}
